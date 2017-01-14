@@ -1,0 +1,4 @@
+load primary
+autosave on
+housekeeping on
+server start
