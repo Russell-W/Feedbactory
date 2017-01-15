@@ -51,7 +51,7 @@ Logging framework for separately handling security events and system events:
 - [Projects/Server/src/com/feedbactory/server/core/log/FeedbactoryLogger.java](Projects/Server/src/com/feedbactory/server/core/log/FeedbactoryLogger.java)
 
 Automatic updates:
-- [Projects/Client/src/com/feedbactory/client/launch/core/ConfigurationManager.java](Projects/Client/src/com/feedbactory/client/launch/core/ConfigurationManager.java)
+- [Projects/Launcher/src/com/feedbactory/client/launch/core/ConfigurationManager.java](Projects/Launcher/src/com/feedbactory/client/launch/core/ConfigurationManager.java)
 
 Paint Swing onto SWT (raster image processing, water effect algorithm):
 - [Projects/Client/src/com/feedbactory/client/ui/component/graftable/GraftableComponentSwingFramework.java](Projects/Client/src/com/feedbactory/client/ui/component/graftable/GraftableComponentSwingFramework.java)
